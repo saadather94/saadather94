@@ -32,7 +32,7 @@
 
 
 - :office: &nbsp;I'm currently working at **[NUCES]**
-- :seedling: &nbsp;I’m currently learning **Data Science techniques**
+- :seedling: &nbsp;I’m currently learning Skills in **Cloud Computing (Azure & AWS), Data Analytics **
 - :speech_balloon: &nbsp;I like to talk about **Machine Learning** and **Big Data**
 - :mailbox: &nbsp;Ask me anything on my **[Mail]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
@@ -95,5 +95,10 @@
 </p>
 
 [NUCES]: http://nu.edu.pk/ "WORK"
-[issues page]: saadather94@gmail.com "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/saadather "Saad Ather LinkedIn"
+[issues page]: [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/saadather94) "MacroPower/issues"
+[linkedin]: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/saadather/) "Saad Ather LinkedIn"
+[Mail]:  [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:saadather94@gmail.com) "CONTACT ME"
+
+
+
+

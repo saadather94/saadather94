@@ -5,29 +5,15 @@
   <a href="https://github.com/saadather94/MacroPower">
     <img src="https://komarev.com/ghpvc/?username=saadather94" alt="page views" />
    </a>
-  
-<!--  <a href="https://saadather94.readthedocs.io/en/latest">
-    <img alt="Read the Docs" src="https://img.shields.io/readthedocs/saadather94?logo=read-the-docs">
-  </a> -->
-  
+    
   <a href="https://stackoverflow.com/users/17189393">
     <img alt="Stack Exchange reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/17189393?color=orange&label=reputation&logo=stackoverflow">
   </a>
-  
-<!--   
-  <a href="https://reddit.com/u/macropower">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
-  </a>
-   -->
-  
+    
   <a href="https://github.com/saadather94?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/saadather94?color=green&logo=github">
   </a>
   
-<!--   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
- -->
 </p>
 
 
@@ -90,8 +76,6 @@
 <img width="10%" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-ar21.svg">
 
 <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
-<!--   
-<img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg">   -->
 </p>
 
 [NUCES]: http://nu.edu.pk/ "WORK"

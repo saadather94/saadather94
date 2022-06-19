@@ -31,8 +31,8 @@
 </p>
 
 
-- :office: &nbsp;I'm currently working at **[MS°]**
-- :seedling: &nbsp;I’m currently learning **Data Science techniques**
+- :office: &nbsp;I'm currently working at **[NUCES°]**
+- :seedling: &nbsp;I’m currently learning skills in **Cloud Computing (Azure & AWS) and Data Analytics**
 - :speech_balloon: &nbsp;I like to talk about **Machine Learning** and **Big Data**
 - :mailbox: &nbsp;Ask me anything on my **[Mail]**
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
@@ -97,3 +97,4 @@
 [MS°]: https://github.com/ "MS° Github Home"
 [issues page]: saadather94@gmail.com "MacroPower/issues"
 [linkedin]: https://www.linkedin.com/saadather "Saad Ather LinkedIn"
+[Mail]: mailto:saadather94@gmail.com "Contact Me"

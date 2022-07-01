@@ -36,8 +36,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadather94&layout=compact&theme=react&line" alt="saad" align="right" />
 </a> 
  -->
- 
+
+
+
+
 <br><br><br><br><br><br><br><br><br><br>
+
 
 
 <h2 align="left" id="saad-tech">FRAMEWORKS</h2>
@@ -86,6 +90,17 @@
 [linkedin]: https://www.linkedin.com/saadather "Saad Ather LinkedIn"
 [Mail]:  mailto:saadather94@gmail.com "CONTACT ME"
 
+<br><br>
+
+<h2 align="left" id="saad-tech">RECENT COMMITS</h2>
+<p>
+<a href="http://www.github.com/saadather94"><img src="https://activity-graph.herokuapp.com/graph?username=saadather94&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<br>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/saadather" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 
 

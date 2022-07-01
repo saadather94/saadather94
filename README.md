@@ -87,7 +87,7 @@
 
 [NUCES]: http://nu.edu.pk/ "WORK"
 [issues page]: https://github.com/saadather94 "MacroPower/issues"
-[linkedin]: https://www.linkedin.com/saadather "Saad Ather LinkedIn"
+[linkedin]: https://www.linkedin.com/in/saadather93/ "Saad Ather LinkedIn"
 [Mail]:  mailto:saadather94@gmail.com "CONTACT ME"
 
 <br><br>

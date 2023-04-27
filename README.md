@@ -1,5 +1,5 @@
 <h1 align="left" id="saad-title">:wave: Hello there! I'm Saad Ather</h1>
-<h3 align="left">I am a Junior Data Scientist, doing Masters in Data Science from NUCES - FAST.</h3>
+<h3 align="left">.</h3>
 
 <p align="left">
   <a href="https://github.com/saadather94/MacroPower">

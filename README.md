@@ -17,7 +17,7 @@
 </p>
 
 
-- :office: &nbsp;I'm currently working at **[NUCES]**
+- :office: &nbsp;I'm currently working at **[Alef]**
 - :seedling: &nbsp;I’m currently learning Skills in **Cloud Computing (Azure & AWS), Data Analytics**
 - :speech_balloon: &nbsp;I like to talk about **Machine Learning** and **Big Data**
 - :mailbox: &nbsp;Ask me anything on my **[Mail]**
@@ -85,7 +85,7 @@
 <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
 </p>
 
-[NUCES]: http://nu.edu.pk/ "WORK"
+[Alef]: http://google.com "WORK"
 [issues page]: https://github.com/saadather94 "MacroPower/issues"
 [linkedin]: https://www.linkedin.com/in/saadather93/ "Saad Ather LinkedIn"
 [Mail]:  mailto:saadather94@gmail.com "CONTACT ME"
